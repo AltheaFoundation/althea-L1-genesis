@@ -45,4 +45,4 @@ The community is preparing for immenent launch with a mainnet dress rehersal sta
 ## Community Docs
 
 * [Nodeist](https://nodeist.net/Althea/)
-* [Bccnodes](https://bccnodes.com/t/althea/)
+* [Bccnodes](https://bccnodes.com/services/althea/)
