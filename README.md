@@ -6,7 +6,7 @@ This repo cointains the genesis file for Althea L1 and some resources for valida
 
 ## Index
 
-1. [MAin docs](https://docs.althea.net)
+1. [Main docs](https://docs.althea.net)
 1. [Testnet resources](/docs/testnet.md)
 1. [Hackathon project index](https://dorahacks.io/hackathon/145)
 1. [Source code](https://github.com/althea-net/althea-l1)
