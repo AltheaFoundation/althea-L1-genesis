@@ -43,10 +43,10 @@ The community is preparing for immenent launch with a mainnet dress rehersal sta
 * [Nodes.Guru](https://althea.explorers.guru/)
 * [STAVR](https://explorer.stavr.tech/althea-testnetl1)
 * [Hexnodes](https://explorer.hexnodes.co/ALTHEA-TESTNET/staking/altheavaloper19fcaymvtttl265lner4sz8na70venkfgxkq3hl)
-* [Vinjan](https://explorer.vinjan.xyz/althea-testnet/staking/altheavaloper1dxrrcxyr5vc2mr9q8j9f2l670kkp736dsrkmna)
+* [Vinjan](https://explorer.vinjan.xyz/)
 
 ## Community Docs
 
 * [Althea L1 docs](https://docs.althea.net)
 * [Nodeist](https://nodeist.net/Althea/)
-* [Bccnodes](https://bccnodes.com/t/althea/)
+* [Bccnodes](https://bccnodes.com/services/althea/)
