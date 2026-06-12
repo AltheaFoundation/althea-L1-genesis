@@ -39,6 +39,7 @@ The community is preparing for immenent launch with a mainnet dress rehersal sta
 
 ### Cosmos SDK
 
+* [Valopers](https://althea.valopers.com)
 * [Cosmosstation](https://www.mintscan.io/althea)
 * [Nodes.Guru](https://althea.explorers.guru/)
 * [STAVR](https://explorer.stavr.tech/althea-testnetl1)
